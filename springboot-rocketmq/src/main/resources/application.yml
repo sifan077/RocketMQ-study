@@ -1,0 +1,4 @@
+rocketmq:
+  name-server: 106.15.250.225:9876
+  producer:
+    group: demo_producer
